@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "438469001679",
+    "firebase_url": "https://ceng317weatherstationproject-default-rtdb.firebaseio.com",
+    "project_id": "ceng317weatherstationproject",
+    "storage_bucket": "ceng317weatherstationproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438469001679:android:423d3edd995107d50392ba",
+        "android_client_info": {
+          "package_name": "com.example.weatherdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438469001679-vbks7ss17kcgr75f4hgifohodnju6itr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV7nB1krMOAk3tJhw7h9ZdaPEIcZcp5c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438469001679-vbks7ss17kcgr75f4hgifohodnju6itr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
